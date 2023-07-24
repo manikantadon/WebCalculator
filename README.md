@@ -1,2 +1,2 @@
 # WebCalculator
-WebCalculator is the Arithmetic  calculator using HTML5 and CSS 
+WebCalculator is an arithmetic  calculator using HTML5 and CSS 
